@@ -6,3 +6,8 @@ Today I learned :
 * how to create a repository
 * how to check the status of my repository
 * and more!
+
+흐물heumul
+
+how to check out different commits
+배고파요교수님수업빨리끝내주세요
