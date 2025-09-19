@@ -2,4 +2,7 @@
 
 This is my **first repository**
 
-Thank you.
+Today I learned :
+* how to create a repository
+* how to check the status of my repository
+* and more!
