@@ -6,3 +6,4 @@ Today I learned :
 * how to create a repository
 * how to check the status of my repository
 * and more!
+* I try to make sth...
