@@ -6,6 +6,7 @@ Today I learned :
 * how to create a repository
 * how to check the status of my repository
 * and more!
+
 * how to solve merge conflicts
 
 흐물heumul
@@ -17,3 +18,5 @@ how to check out different commits
 
 집 갈 래
 국밥먹고싶음
+
+* I try to make sth...
